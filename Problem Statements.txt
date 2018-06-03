@@ -1,0 +1,5 @@
+PROBLEM STATEMENT 1
+Here we will find out what are the top 5 categories with maximum number of videos uploaded.
+
+PROBLEM STATEMENT 2
+In this problem statement, we will find the top 10 rated videos on youtube.
